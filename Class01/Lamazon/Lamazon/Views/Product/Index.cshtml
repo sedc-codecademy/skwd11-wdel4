@@ -1,0 +1,15 @@
+﻿@using Lamazon.Models.Entities;
+@model List<Product>
+
+<h2>Products</h2>
+
+@foreach (var product in Model)
+{
+    <p>
+        @product.Name
+        <a asp-action="ProductDetails" asp-route-id="@product.Id">See details</a>
+    </p>
+
+}
+
+<a asp-controller="Product" asp-action="ProductDetails">See details</a>

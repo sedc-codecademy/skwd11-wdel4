@@ -1,0 +1,11 @@
+﻿@using Lamazon.Models.Entities;
+@model Product;
+
+<a asp-action="Index">&#8592 Back</a>
+
+<h2>Product details for @Model.Name</h2>
+
+<p>Name: @Model.Name</p>
+<p>Description: @Model.Description</p>
+<p>Category: @Model.Category.Name</p>
+<p>Price: @Model.Price</p>
