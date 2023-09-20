@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0tiYgv5aQkmBebXUqV3uRJjN+HaPuE0mXThyAqzNN9Pqw8PnkLGNCL/HItaKbe9OSkgxdIQdyUNN7/l/kwntBQ==",
+  "success": true,
+  "projectFilePath": "E:\\SEDC-Asistent\\Izobren Practical ASP\\skwd11-wdel4\\Class02\\SEDC.Lamazon\\SEDC.Lamazon\\SEDC.Lamazon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Manas\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
