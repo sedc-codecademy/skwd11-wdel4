@@ -1,0 +1,24 @@
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.Domain\obj\Debug\net6.0\SEDC.Lamazon.Domain.csproj.AssemblyReference.cache
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.Domain\obj\Debug\net6.0\SEDC.Lamazon.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.Domain\obj\Debug\net6.0\SEDC.Lamazon.Domain.AssemblyInfoInputs.cache
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.Domain\obj\Debug\net6.0\SEDC.Lamazon.Domain.AssemblyInfo.cs
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.Domain\obj\Debug\net6.0\SEDC.Lamazon.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.Domain\bin\Debug\net6.0\SEDC.Lamazon.Domain.deps.json
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.Domain\bin\Debug\net6.0\SEDC.Lamazon.Domain.dll
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.Domain\bin\Debug\net6.0\SEDC.Lamazon.Domain.pdb
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.Domain\obj\Debug\net6.0\SEDC.Lamazon.Domain.dll
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.Domain\obj\Debug\net6.0\refint\SEDC.Lamazon.Domain.dll
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.Domain\obj\Debug\net6.0\SEDC.Lamazon.Domain.pdb
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.Domain\obj\Debug\net6.0\ref\SEDC.Lamazon.Domain.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.Domain\bin\Debug\net6.0\SEDC.Lamazon.Domain.deps.json
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.Domain\bin\Debug\net6.0\SEDC.Lamazon.Domain.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.Domain\bin\Debug\net6.0\SEDC.Lamazon.Domain.pdb
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.Domain\obj\Debug\net6.0\SEDC.Lamazon.Domain.csproj.AssemblyReference.cache
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.Domain\obj\Debug\net6.0\SEDC.Lamazon.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.Domain\obj\Debug\net6.0\SEDC.Lamazon.Domain.AssemblyInfoInputs.cache
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.Domain\obj\Debug\net6.0\SEDC.Lamazon.Domain.AssemblyInfo.cs
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.Domain\obj\Debug\net6.0\SEDC.Lamazon.Domain.csproj.CoreCompileInputs.cache
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.Domain\obj\Debug\net6.0\SEDC.Lamazon.Domain.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.Domain\obj\Debug\net6.0\refint\SEDC.Lamazon.Domain.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.Domain\obj\Debug\net6.0\SEDC.Lamazon.Domain.pdb
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.Domain\obj\Debug\net6.0\ref\SEDC.Lamazon.Domain.dll

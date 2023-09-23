@@ -1,0 +1,40 @@
+﻿@using SEDC.Lamazon.ViewModels.Models.Product
+@model ProductViewModel
+
+<h2>Delete Product </h2>
+<hr />
+
+<form asp-controller="Product" asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Id" />
+    <div class="form-group">
+        <label asp-for="Name" class="control-label"></label>
+        <input asp-for="Name" class="form-control" readonly />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Description" class="control-label"></label>
+        <input asp-for="Description" class="form-control" readonly/>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="ImageUrl" class="control-label"></label>
+        <input asp-for="ImageUrl" class="form-control" readonly />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Price" class="control-label"></label>
+        <input asp-for="Price" class="form-control" readonly />
+    </div>
+
+    <p>@Model.ProductCategory.Name </p>
+
+    @*<div class="form-group">
+        <label asp-for="ProductCategory" class="control-label"></label>
+        <select asp-for="ProductCategory.Id" asp-items="ViewBag.ProductCategories" class="form-control" readonly>
+            <option value="">Select Category</option>
+        </select>
+    </div>*@
+
+    <partial name="_DeleteModal" />
+
+</form>

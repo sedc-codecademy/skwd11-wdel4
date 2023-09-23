@@ -1,0 +1,34 @@
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.Mappers\obj\Debug\net6.0\SEDC.Lamazon.Mappers.csproj.AssemblyReference.cache
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.Mappers\obj\Debug\net6.0\SEDC.Lamazon.Mappers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.Mappers\obj\Debug\net6.0\SEDC.Lamazon.Mappers.AssemblyInfoInputs.cache
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.Mappers\obj\Debug\net6.0\SEDC.Lamazon.Mappers.AssemblyInfo.cs
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.Mappers\obj\Debug\net6.0\SEDC.Lamazon.Mappers.csproj.CoreCompileInputs.cache
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.Mappers\bin\Debug\net6.0\SEDC.Lamazon.Mappers.deps.json
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.Mappers\bin\Debug\net6.0\SEDC.Lamazon.Mappers.dll
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.Mappers\bin\Debug\net6.0\SEDC.Lamazon.Mappers.pdb
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.Mappers\bin\Debug\net6.0\SEDC.Lamazon.Domain.dll
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.Mappers\bin\Debug\net6.0\SEDC.Lamazon.ViewModels.dll
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.Mappers\bin\Debug\net6.0\SEDC.Lamazon.Domain.pdb
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.Mappers\bin\Debug\net6.0\SEDC.Lamazon.ViewModels.pdb
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.Mappers\obj\Debug\net6.0\SEDC.Lamazon.Mappers.csproj.CopyComplete
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.Mappers\obj\Debug\net6.0\SEDC.Lamazon.Mappers.dll
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.Mappers\obj\Debug\net6.0\refint\SEDC.Lamazon.Mappers.dll
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.Mappers\obj\Debug\net6.0\SEDC.Lamazon.Mappers.pdb
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.Mappers\obj\Debug\net6.0\ref\SEDC.Lamazon.Mappers.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.Mappers\bin\Debug\net6.0\SEDC.Lamazon.Mappers.deps.json
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.Mappers\bin\Debug\net6.0\SEDC.Lamazon.Mappers.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.Mappers\bin\Debug\net6.0\SEDC.Lamazon.Mappers.pdb
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.Mappers\bin\Debug\net6.0\SEDC.Lamazon.Domain.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.Mappers\bin\Debug\net6.0\SEDC.Lamazon.ViewModels.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.Mappers\bin\Debug\net6.0\SEDC.Lamazon.Domain.pdb
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.Mappers\bin\Debug\net6.0\SEDC.Lamazon.ViewModels.pdb
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.Mappers\obj\Debug\net6.0\SEDC.Lamazon.Mappers.csproj.AssemblyReference.cache
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.Mappers\obj\Debug\net6.0\SEDC.Lamazon.Mappers.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.Mappers\obj\Debug\net6.0\SEDC.Lamazon.Mappers.AssemblyInfoInputs.cache
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.Mappers\obj\Debug\net6.0\SEDC.Lamazon.Mappers.AssemblyInfo.cs
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.Mappers\obj\Debug\net6.0\SEDC.Lamazon.Mappers.csproj.CoreCompileInputs.cache
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.Mappers\obj\Debug\net6.0\SEDC.Lamazon.Mappers.csproj.CopyComplete
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.Mappers\obj\Debug\net6.0\SEDC.Lamazon.Mappers.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.Mappers\obj\Debug\net6.0\refint\SEDC.Lamazon.Mappers.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.Mappers\obj\Debug\net6.0\SEDC.Lamazon.Mappers.pdb
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.Mappers\obj\Debug\net6.0\ref\SEDC.Lamazon.Mappers.dll
