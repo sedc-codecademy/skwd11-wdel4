@@ -1,0 +1,17 @@
+﻿@using SEDC.Lamazon.ViewModels.Models.Product
+@model List<ProductViewModel>
+
+<h2>Products</h2>
+
+<a asp-action="Create">Crete new Product</a>
+
+@foreach(var product in Model) {
+    <ul style="list-stle-type:none;">
+        <li>
+            <p>Product Name:"@product.Name"</p>
+            <a asp-action="ProductDetails" asp-route-id="@product.Id">See Details</a>
+            <a asp-action="Edit" asp-route-id="@product.Id">Edit</a>
+            <a asp-action="Delete" asp-route-id="@product.Id">Delete</a>
+        </li>
+    </ul>
+}

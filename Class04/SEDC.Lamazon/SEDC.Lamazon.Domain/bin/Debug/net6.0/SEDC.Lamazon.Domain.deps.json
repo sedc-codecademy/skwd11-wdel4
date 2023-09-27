@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SEDC.Lamazon.Domain/1.0.0": {
+        "dependencies": {
+          "SEDC.Lamazon.Shared": "1.0.0"
+        },
+        "runtime": {
+          "SEDC.Lamazon.Domain.dll": {}
+        }
+      },
+      "SEDC.Lamazon.Shared/1.0.0": {
+        "runtime": {
+          "SEDC.Lamazon.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SEDC.Lamazon.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SEDC.Lamazon.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

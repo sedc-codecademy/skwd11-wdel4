@@ -1,0 +1,18 @@
+﻿@using SEDC.Lamazon.ViewModels.Models.ProductCategory
+@model List<ProductCategoryViewModel>
+
+    <h2>Product Categories</h2>
+
+    <a class="mt-5" asp-action="Create">Create Product Category</a>
+    <hr/>
+    <hr/>
+
+    @foreach (var productCategory in Model)
+    {
+        <ul style="list-style-type:none">
+            <li>Product Category Name: @productCategory.Name</li>
+            <li><a asp-action="Details" asp-route-id="@productCategory.Id">Details</a></li>
+            <li><a asp-action="Edit" asp-route-id="@productCategory.Id">Edit</a></li>
+            <li><a asp-action="Delete" asp-route-id="@productCategory.Id">Delete</a></li>
+        </ul>
+    }
