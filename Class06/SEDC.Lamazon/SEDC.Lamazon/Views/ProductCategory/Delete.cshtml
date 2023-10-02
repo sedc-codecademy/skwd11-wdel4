@@ -1,0 +1,40 @@
+﻿@using SEDC.Lamazon.ViewModels.Models.ProductCategory
+
+@model ProductCategoryViewModel
+
+<h2>Delete product category</h2>
+
+<form asp-action="Delete" method="post">
+
+    <input type="hidden" asp-for="Id"/>
+
+    <div>
+        <label asp-for="Name" class="control-label"></label>
+        <input asp-for="Name" class="form-control" readonly />
+    </div>
+
+    <partial name="_DeleteModal" />
+
+@*    <div>
+        <button type="button" class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#deleteModal">Delete</button>
+    </div>
+
+    <div class="modal" tabindex="-1" id="deleteModal">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Delete Product Category</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <p>Are you sure you want to delete "@Model.Name"</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    <button type="submit" class="btn btn-danger">Delete</button>
+                </div>
+            </div>
+        </div>
+    </div>*@
+
+</form>

@@ -1,0 +1,91 @@
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\SEDC.Lamazon.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\SEDC.Lamazon.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\SEDC.Lamazon.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\SEDC.Lamazon.DataAccess.AssemblyInfo.cs
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\SEDC.Lamazon.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.DataAccess\bin\Debug\net6.0\SEDC.Lamazon.DataAccess.deps.json
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.DataAccess\bin\Debug\net6.0\SEDC.Lamazon.DataAccess.dll
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.DataAccess\bin\Debug\net6.0\SEDC.Lamazon.DataAccess.pdb
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.DataAccess\bin\Debug\net6.0\SEDC.Lamazon.Domain.dll
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.DataAccess\bin\Debug\net6.0\SEDC.Lamazon.Domain.pdb
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\SEDC.Lamazon.DataAccess.csproj.CopyComplete
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\SEDC.Lamazon.DataAccess.dll
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\refint\SEDC.Lamazon.DataAccess.dll
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\SEDC.Lamazon.DataAccess.pdb
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\ref\SEDC.Lamazon.DataAccess.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.DataAccess\bin\Debug\net6.0\SEDC.Lamazon.DataAccess.deps.json
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.DataAccess\bin\Debug\net6.0\SEDC.Lamazon.DataAccess.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.DataAccess\bin\Debug\net6.0\SEDC.Lamazon.DataAccess.pdb
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.DataAccess\bin\Debug\net6.0\SEDC.Lamazon.Domain.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.DataAccess\bin\Debug\net6.0\SEDC.Lamazon.Domain.pdb
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\SEDC.Lamazon.DataAccess.csproj.AssemblyReference.cache
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\SEDC.Lamazon.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\SEDC.Lamazon.DataAccess.AssemblyInfoInputs.cache
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\SEDC.Lamazon.DataAccess.AssemblyInfo.cs
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\SEDC.Lamazon.DataAccess.csproj.CoreCompileInputs.cache
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\SEDC.Lamazon.DataAccess.csproj.CopyComplete
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\SEDC.Lamazon.DataAccess.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\refint\SEDC.Lamazon.DataAccess.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\SEDC.Lamazon.DataAccess.pdb
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\ref\SEDC.Lamazon.DataAccess.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class04\SEDC.Lamazon\SEDC.Lamazon.DataAccess\bin\Debug\net6.0\SEDC.Lamazon.DataAccess.deps.json
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class04\SEDC.Lamazon\SEDC.Lamazon.DataAccess\bin\Debug\net6.0\SEDC.Lamazon.DataAccess.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class04\SEDC.Lamazon\SEDC.Lamazon.DataAccess\bin\Debug\net6.0\SEDC.Lamazon.DataAccess.pdb
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class04\SEDC.Lamazon\SEDC.Lamazon.DataAccess\bin\Debug\net6.0\SEDC.Lamazon.Domain.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class04\SEDC.Lamazon\SEDC.Lamazon.DataAccess\bin\Debug\net6.0\SEDC.Lamazon.Domain.pdb
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class04\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\SEDC.Lamazon.DataAccess.csproj.AssemblyReference.cache
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class04\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\SEDC.Lamazon.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class04\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\SEDC.Lamazon.DataAccess.AssemblyInfoInputs.cache
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class04\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\SEDC.Lamazon.DataAccess.AssemblyInfo.cs
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class04\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\SEDC.Lamazon.DataAccess.csproj.CoreCompileInputs.cache
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class04\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\SEDC.Lamazon.DataAccess.csproj.CopyComplete
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class04\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\SEDC.Lamazon.DataAccess.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class04\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\refint\SEDC.Lamazon.DataAccess.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class04\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\SEDC.Lamazon.DataAccess.pdb
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class04\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\ref\SEDC.Lamazon.DataAccess.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class04\SEDC.Lamazon\SEDC.Lamazon.DataAccess\bin\Debug\net6.0\SEDC.Lamazon.Shared.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class04\SEDC.Lamazon\SEDC.Lamazon.DataAccess\bin\Debug\net6.0\SEDC.Lamazon.ViewModels.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class04\SEDC.Lamazon\SEDC.Lamazon.DataAccess\bin\Debug\net6.0\SEDC.Lamazon.ViewModels.pdb
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class04\SEDC.Lamazon\SEDC.Lamazon.DataAccess\bin\Debug\net6.0\SEDC.Lamazon.Shared.pdb
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class05\SEDC.Lamazon\SEDC.Lamazon.DataAccess\bin\Debug\net6.0\SEDC.Lamazon.DataAccess.deps.json
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class05\SEDC.Lamazon\SEDC.Lamazon.DataAccess\bin\Debug\net6.0\SEDC.Lamazon.DataAccess.runtimeconfig.json
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class05\SEDC.Lamazon\SEDC.Lamazon.DataAccess\bin\Debug\net6.0\SEDC.Lamazon.DataAccess.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class05\SEDC.Lamazon\SEDC.Lamazon.DataAccess\bin\Debug\net6.0\SEDC.Lamazon.DataAccess.pdb
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class05\SEDC.Lamazon\SEDC.Lamazon.DataAccess\bin\Debug\net6.0\SEDC.Lamazon.Domain.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class05\SEDC.Lamazon\SEDC.Lamazon.DataAccess\bin\Debug\net6.0\SEDC.Lamazon.Shared.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class05\SEDC.Lamazon\SEDC.Lamazon.DataAccess\bin\Debug\net6.0\SEDC.Lamazon.ViewModels.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class05\SEDC.Lamazon\SEDC.Lamazon.DataAccess\bin\Debug\net6.0\SEDC.Lamazon.Domain.pdb
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class05\SEDC.Lamazon\SEDC.Lamazon.DataAccess\bin\Debug\net6.0\SEDC.Lamazon.ViewModels.pdb
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class05\SEDC.Lamazon\SEDC.Lamazon.DataAccess\bin\Debug\net6.0\SEDC.Lamazon.Shared.pdb
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class05\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\SEDC.Lamazon.DataAccess.csproj.AssemblyReference.cache
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class05\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\SEDC.Lamazon.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class05\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\SEDC.Lamazon.DataAccess.AssemblyInfoInputs.cache
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class05\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\SEDC.Lamazon.DataAccess.AssemblyInfo.cs
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class05\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\SEDC.Lamazon.DataAccess.csproj.CoreCompileInputs.cache
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class05\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\SEDC.Lamazon.DataAccess.csproj.CopyComplete
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class05\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\SEDC.Lamazon.DataAccess.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class05\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\refint\SEDC.Lamazon.DataAccess.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class05\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\SEDC.Lamazon.DataAccess.pdb
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class05\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\SEDC.Lamazon.DataAccess.genruntimeconfig.cache
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class05\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\ref\SEDC.Lamazon.DataAccess.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class06\SEDC.Lamazon\SEDC.Lamazon.DataAccess\bin\Debug\net6.0\SEDC.Lamazon.DataAccess.deps.json
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class06\SEDC.Lamazon\SEDC.Lamazon.DataAccess\bin\Debug\net6.0\SEDC.Lamazon.DataAccess.runtimeconfig.json
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class06\SEDC.Lamazon\SEDC.Lamazon.DataAccess\bin\Debug\net6.0\SEDC.Lamazon.DataAccess.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class06\SEDC.Lamazon\SEDC.Lamazon.DataAccess\bin\Debug\net6.0\SEDC.Lamazon.DataAccess.pdb
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class06\SEDC.Lamazon\SEDC.Lamazon.DataAccess\bin\Debug\net6.0\SEDC.Lamazon.Domain.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class06\SEDC.Lamazon\SEDC.Lamazon.DataAccess\bin\Debug\net6.0\SEDC.Lamazon.Shared.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class06\SEDC.Lamazon\SEDC.Lamazon.DataAccess\bin\Debug\net6.0\SEDC.Lamazon.ViewModels.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class06\SEDC.Lamazon\SEDC.Lamazon.DataAccess\bin\Debug\net6.0\SEDC.Lamazon.Domain.pdb
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class06\SEDC.Lamazon\SEDC.Lamazon.DataAccess\bin\Debug\net6.0\SEDC.Lamazon.ViewModels.pdb
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class06\SEDC.Lamazon\SEDC.Lamazon.DataAccess\bin\Debug\net6.0\SEDC.Lamazon.Shared.pdb
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class06\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\SEDC.Lamazon.DataAccess.csproj.AssemblyReference.cache
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class06\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\SEDC.Lamazon.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class06\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\SEDC.Lamazon.DataAccess.AssemblyInfoInputs.cache
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class06\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\SEDC.Lamazon.DataAccess.AssemblyInfo.cs
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class06\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\SEDC.Lamazon.DataAccess.csproj.CoreCompileInputs.cache
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class06\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\SEDC.Lamazon.DataAccess.csproj.CopyComplete
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class06\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\SEDC.Lamazon.DataAccess.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class06\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\refint\SEDC.Lamazon.DataAccess.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class06\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\SEDC.Lamazon.DataAccess.pdb
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class06\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\SEDC.Lamazon.DataAccess.genruntimeconfig.cache
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class06\SEDC.Lamazon\SEDC.Lamazon.DataAccess\obj\Debug\net6.0\ref\SEDC.Lamazon.DataAccess.dll

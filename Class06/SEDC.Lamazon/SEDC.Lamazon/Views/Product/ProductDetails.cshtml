@@ -1,0 +1,16 @@
+﻿@using SEDC.Lamazon.ViewModels.Models.Product
+@model ProductViewModel
+
+<h2>Product Details</h2>
+
+<hr />
+
+<p>Id: @Model.Id</p>
+<p>Name: @Model.Name</p>
+<p>Description: @Model.Description</p>
+<p>Category: @Model.ProductCategory.Name</p>
+<p>Price: @Model.Price</p>
+<img src="@Model.ImageUrl" />
+<hr />
+
+<a asp-action="Index" >Return</a>

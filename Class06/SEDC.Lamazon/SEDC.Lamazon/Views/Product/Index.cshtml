@@ -1,0 +1,62 @@
+﻿@using SEDC.Lamazon.ViewModels.Models.Product
+@model List<ProductViewModel>
+
+<div class="card shadow mt-4">
+    <div class="card-header bg-secondary bg-gradient py-3">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2 class="text-white">Product Categories</h2>
+            </div>
+        </div>
+    </div>
+    <div class="card-body p-4">
+        <div class="row mb-2">
+            <div class="col-6">
+            </div>
+            <div class="col-6 text-end">
+                <a asp-controller="Product" asp-action="Create" class="btn btn-primary"> Create New Product</a>
+            </div>
+        </div>
+
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th>Product Name</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                @foreach (var product in Model)
+                {
+                    <tr>
+                        <td>@product.Name</td>
+                        <td>
+                            <div class="w-100 btn-group " role="group">
+                                <a class="btn btn-primary mx-2" asp-action="ProductDetails" asp-route-id="@product.Id">Details</a>
+                                <a class="btn btn-warning mx-2" asp-action="Edit" asp-route-id="@product.Id">Edit</a>
+                                <a class="btn btn-danger mx-2" asp-action="Delete" asp-route-id="@product.Id">Delete</a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
+@*<h2>Products</h2>
+
+<a asp-action="Create">Crete new Product</a>
+
+@foreach(var product in Model) {
+    <ul style="list-stle-type:none;">
+        <li>
+            <p>Product Name:"@product.Name"</p>
+            <a asp-action="ProductDetails" asp-route-id="@product.Id">See Details</a>
+            <a asp-action="Edit" asp-route-id="@product.Id">Edit</a>
+            <a asp-action="Delete" asp-route-id="@product.Id">Delete</a>
+        </li>
+    </ul>
+}*@
