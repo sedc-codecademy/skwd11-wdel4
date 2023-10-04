@@ -1,0 +1,50 @@
+﻿@using SEDC.Lamazon.ViewModels.Models.User
+@model List<UserViewModel>
+
+
+<div class="card shadow mt-4">
+    <div class="card-header bg-secondary bg-gradient py-3">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2 class="text-white">Users</h2>
+            </div>
+        </div>
+    </div>
+    <div class="card-body p-4">
+        <div class="row mb-2">
+            <div class="col-6">
+            </div>
+            <div class="col-6 text-end">
+                <a asp-controller="User" asp-action="Create" class="btn btn-primary"> Create New User</a>
+            </div>
+        </div>
+
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th>Full Name</th>
+                    <th>Email</th>
+                    <th>Role</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                @foreach (var user in Model)
+                {
+                    <tr>
+                        <td>@user.FullName</td>
+                        <td>@user.Email</td>
+                        <td>@user.Role.Name</td>
+                        <td>
+                            <div class="w-100 btn-group " role="group">
+                                <a class="btn btn-warning mx-2" asp-action="Edit" asp-route-id="@user.Id">Edit</a>
+                                <a class="btn btn-danger mx-2" asp-action="Delete" asp-route-id="@user.Id">Delete</a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
