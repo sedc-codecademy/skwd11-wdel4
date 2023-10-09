@@ -1,0 +1,114 @@
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.ViewModels\bin\Debug\net6.0\SEDC.Lamazon.ViewModels.deps.json
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.ViewModels\bin\Debug\net6.0\SEDC.Lamazon.ViewModels.dll
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.ViewModels\bin\Debug\net6.0\SEDC.Lamazon.ViewModels.pdb
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.AssemblyInfo.cs
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.dll
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\refint\SEDC.Lamazon.ViewModels.dll
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.pdb
+C:\Users\Manas\Desktop\class2\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\ref\SEDC.Lamazon.ViewModels.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.ViewModels\bin\Debug\net6.0\SEDC.Lamazon.ViewModels.deps.json
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.ViewModels\bin\Debug\net6.0\SEDC.Lamazon.ViewModels.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.ViewModels\bin\Debug\net6.0\SEDC.Lamazon.ViewModels.pdb
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.csproj.AssemblyReference.cache
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.AssemblyInfoInputs.cache
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.AssemblyInfo.cs
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.csproj.CoreCompileInputs.cache
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\refint\SEDC.Lamazon.ViewModels.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.pdb
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class03\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\ref\SEDC.Lamazon.ViewModels.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class04\SEDC.Lamazon\SEDC.Lamazon.ViewModels\bin\Debug\net6.0\SEDC.Lamazon.ViewModels.deps.json
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class04\SEDC.Lamazon\SEDC.Lamazon.ViewModels\bin\Debug\net6.0\SEDC.Lamazon.ViewModels.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class04\SEDC.Lamazon\SEDC.Lamazon.ViewModels\bin\Debug\net6.0\SEDC.Lamazon.ViewModels.pdb
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class04\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.csproj.AssemblyReference.cache
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class04\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class04\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.AssemblyInfoInputs.cache
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class04\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.AssemblyInfo.cs
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class04\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.csproj.CoreCompileInputs.cache
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class04\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class04\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\refint\SEDC.Lamazon.ViewModels.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class04\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.pdb
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class04\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\ref\SEDC.Lamazon.ViewModels.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class04\SEDC.Lamazon\SEDC.Lamazon.ViewModels\bin\Debug\net6.0\SEDC.Lamazon.Shared.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class04\SEDC.Lamazon\SEDC.Lamazon.ViewModels\bin\Debug\net6.0\SEDC.Lamazon.Shared.pdb
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class04\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.csproj.CopyComplete
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class05\SEDC.Lamazon\SEDC.Lamazon.ViewModels\bin\Debug\net6.0\SEDC.Lamazon.ViewModels.deps.json
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class05\SEDC.Lamazon\SEDC.Lamazon.ViewModels\bin\Debug\net6.0\SEDC.Lamazon.ViewModels.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class05\SEDC.Lamazon\SEDC.Lamazon.ViewModels\bin\Debug\net6.0\SEDC.Lamazon.ViewModels.pdb
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class05\SEDC.Lamazon\SEDC.Lamazon.ViewModels\bin\Debug\net6.0\SEDC.Lamazon.Shared.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class05\SEDC.Lamazon\SEDC.Lamazon.ViewModels\bin\Debug\net6.0\SEDC.Lamazon.Shared.pdb
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class05\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.csproj.AssemblyReference.cache
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class05\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class05\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.AssemblyInfoInputs.cache
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class05\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.AssemblyInfo.cs
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class05\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.csproj.CoreCompileInputs.cache
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class05\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.csproj.CopyComplete
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class05\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class05\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\refint\SEDC.Lamazon.ViewModels.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class05\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.pdb
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class05\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\ref\SEDC.Lamazon.ViewModels.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class06\SEDC.Lamazon\SEDC.Lamazon.ViewModels\bin\Debug\net6.0\SEDC.Lamazon.ViewModels.deps.json
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class06\SEDC.Lamazon\SEDC.Lamazon.ViewModels\bin\Debug\net6.0\SEDC.Lamazon.ViewModels.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class06\SEDC.Lamazon\SEDC.Lamazon.ViewModels\bin\Debug\net6.0\SEDC.Lamazon.ViewModels.pdb
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class06\SEDC.Lamazon\SEDC.Lamazon.ViewModels\bin\Debug\net6.0\SEDC.Lamazon.Shared.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class06\SEDC.Lamazon\SEDC.Lamazon.ViewModels\bin\Debug\net6.0\SEDC.Lamazon.Shared.pdb
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class06\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.csproj.AssemblyReference.cache
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class06\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class06\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.AssemblyInfoInputs.cache
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class06\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.AssemblyInfo.cs
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class06\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.csproj.CoreCompileInputs.cache
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class06\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.csproj.CopyComplete
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class06\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class06\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\refint\SEDC.Lamazon.ViewModels.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class06\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.pdb
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class06\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\ref\SEDC.Lamazon.ViewModels.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class07\SEDC.Lamazon\SEDC.Lamazon.ViewModels\bin\Debug\net6.0\SEDC.Lamazon.ViewModels.deps.json
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class07\SEDC.Lamazon\SEDC.Lamazon.ViewModels\bin\Debug\net6.0\SEDC.Lamazon.ViewModels.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class07\SEDC.Lamazon\SEDC.Lamazon.ViewModels\bin\Debug\net6.0\SEDC.Lamazon.ViewModels.pdb
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class07\SEDC.Lamazon\SEDC.Lamazon.ViewModels\bin\Debug\net6.0\SEDC.Lamazon.Shared.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class07\SEDC.Lamazon\SEDC.Lamazon.ViewModels\bin\Debug\net6.0\SEDC.Lamazon.Shared.pdb
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class07\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.csproj.AssemblyReference.cache
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class07\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class07\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.AssemblyInfoInputs.cache
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class07\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.AssemblyInfo.cs
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class07\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.csproj.CoreCompileInputs.cache
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class07\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.csproj.CopyComplete
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class07\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class07\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\refint\SEDC.Lamazon.ViewModels.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class07\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.pdb
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class07\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\ref\SEDC.Lamazon.ViewModels.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class08\SEDC.Lamazon\SEDC.Lamazon.ViewModels\bin\Debug\net6.0\SEDC.Lamazon.ViewModels.deps.json
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class08\SEDC.Lamazon\SEDC.Lamazon.ViewModels\bin\Debug\net6.0\SEDC.Lamazon.ViewModels.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class08\SEDC.Lamazon\SEDC.Lamazon.ViewModels\bin\Debug\net6.0\SEDC.Lamazon.ViewModels.pdb
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class08\SEDC.Lamazon\SEDC.Lamazon.ViewModels\bin\Debug\net6.0\SEDC.Lamazon.Shared.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class08\SEDC.Lamazon\SEDC.Lamazon.ViewModels\bin\Debug\net6.0\SEDC.Lamazon.Shared.pdb
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class08\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.csproj.AssemblyReference.cache
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class08\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class08\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.AssemblyInfoInputs.cache
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class08\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.AssemblyInfo.cs
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class08\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.csproj.CoreCompileInputs.cache
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class08\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.csproj.CopyComplete
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class08\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class08\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\refint\SEDC.Lamazon.ViewModels.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class08\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.pdb
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class08\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\ref\SEDC.Lamazon.ViewModels.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class09\SEDC.Lamazon\SEDC.Lamazon.ViewModels\bin\Debug\net6.0\SEDC.Lamazon.ViewModels.deps.json
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class09\SEDC.Lamazon\SEDC.Lamazon.ViewModels\bin\Debug\net6.0\SEDC.Lamazon.ViewModels.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class09\SEDC.Lamazon\SEDC.Lamazon.ViewModels\bin\Debug\net6.0\SEDC.Lamazon.ViewModels.pdb
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class09\SEDC.Lamazon\SEDC.Lamazon.ViewModels\bin\Debug\net6.0\SEDC.Lamazon.Shared.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class09\SEDC.Lamazon\SEDC.Lamazon.ViewModels\bin\Debug\net6.0\SEDC.Lamazon.Shared.pdb
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class09\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.csproj.AssemblyReference.cache
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class09\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class09\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.AssemblyInfoInputs.cache
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class09\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.AssemblyInfo.cs
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class09\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.csproj.CoreCompileInputs.cache
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class09\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.csproj.CopyComplete
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class09\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class09\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\refint\SEDC.Lamazon.ViewModels.dll
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class09\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\SEDC.Lamazon.ViewModels.pdb
+E:\SEDC-Asistent\Izobren Practical ASP\skwd11-wdel4\Class09\SEDC.Lamazon\SEDC.Lamazon.ViewModels\obj\Debug\net6.0\ref\SEDC.Lamazon.ViewModels.dll

@@ -1,0 +1,94 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@using SEDC.Lamazon.ViewModels.Models.Order
+@model OrderViewModel
+
+<div style="max-width: 600px; margin: 20px auto; border: 1px solid #e0e0e0; padding: 20px; background-color: #f7f7f7; font-family: Arial, sans-serif;">
+
+    <h2 style="border-bottom: 2px solid #333; padding-bottom: 10px; color: #333; text-align: center;">Invoice</h2>
+
+    <div style="padding: 20px; background-color: #fff; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
+        <h3 style="color: #007bff;">Order Details:</h3>
+        <table style="width: 100%; margin-bottom: 20px;">
+            <tbody>
+                <tr>
+                    <td style="padding: 5px;">Name:</td>
+                    <td style="padding: 5px;">@Model.Name</td>
+                </tr>
+                <tr>
+                    <td style="padding: 5px;">Address:</td>
+                    <td style="padding: 5px;">@Model.StreetAddress</td>
+                </tr>
+                <tr>
+                    <td style="padding: 5px;">City:</td>
+                    <td style="padding: 5px;">@Model.City</td>
+                </tr>
+                <tr>
+                    <td style="padding: 5px;">State:</td>
+                    <td style="padding: 5px;">@Model.State</td>
+                </tr>
+                <tr>
+                    <td style="padding: 5px;">Zip Code:</td>
+                    <td style="padding: 5px;">@Model.PostalCode</td>
+                </tr>
+                <tr>
+                    <td style="padding: 5px;">Email:</td>
+                    <td style="padding: 5px;">@Model.User.Email</td>
+                </tr>
+                <tr>
+                    <td style="padding: 5px;">Order Date:</td>
+                    <td style="padding: 5px;">@Model.OrderDate.ToShortDateString()</td>
+                </tr>
+                <tr>
+                    <td style="padding: 5px;">Payment Date:</td>
+                    <td style="padding: 5px;">@Model.PaymentDate.ToShortDateString()</td>
+                </tr>
+                <tr>
+                    <td style="padding: 5px;">Shipping Date:</td>
+                    <td style="padding: 5px;">@Model.ShippingDate</td>
+                </tr>
+                <tr>
+                    <td style="padding: 5px;">Carrier:</td>
+                    <td style="padding: 5px;">@Model.Carrier</td>
+                </tr>
+                <tr>
+                    <td style="padding: 5px;">Tracking:</td>
+                    <td style="padding: 5px;">@Model.TrackingNumber</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <h3 style="color: #007bff;">Products:</h3>
+        <table style="width: 100%; border-collapse: collapse;">
+            <thead>
+                <tr style="background-color: #e0e0e0;">
+                    <th style="padding: 10px; border: 1px solid #ccc;">Product Name</th>
+                    <th style="padding: 10px; border: 1px solid #ccc;">Price</th>
+                    <th style="padding: 10px; border: 1px solid #ccc;">Quantity</th>
+                    <th style="padding: 10px; border: 1px solid #ccc;">Total</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in @Model.Items)
+                {
+                    <tr>
+                        <td style="padding: 10px; border: 1px solid #ccc;">@item.Product.Name</td>
+                        <td style="padding: 10px; border: 1px solid #ccc;">@item.Price.ToString("c")</td>
+                        <td style="padding: 10px; border: 1px solid #ccc;">@item.Count</td>
+                        <td style="padding: 10px; border: 1px solid #ccc;">@((item.Count * item.Price).ToString("c"))</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        <div style="padding: 15px; border-top: 1px solid #ccc; margin-top: 20px;">
+            <h3 style="text-align: right;">Total: @Model.TotalPrice.ToString("c")</h3>
+        </div>
+    </div>
+
+    <div style="margin-top: 15px; text-align: center;">
+        <p>Thank you for shopping with us!</p>
+        <p>If you have any questions about this invoice, contact [Lamazon's Support Email]</p>
+    </div>
+</div>
