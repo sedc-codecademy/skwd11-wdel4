@@ -1,0 +1,58 @@
+﻿@using SEDC.Lamazon.ViewModels.Models.Order
+@model List<OrderViewModel>
+
+@{
+    var currentStatus = Context.Request.Query["status"];
+
+    var joinStatuses = string.Join("|", ViewBag.FilterOptions);
+    string regex = $"\\b({joinStatuses})\\b";
+}
+
+<div class="card shadow mt-4">
+    <div class="card-header bg-primary bg-gradient py-3">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2 class="text-white">Product Categories</h2>
+            </div>
+        </div>
+    </div>
+    <div class="card-body p-4">
+        <div class="d-flex justify-content-between align-items-end pb-5 pt-2 ">
+            <ul class="list-group list-group-horizontal-sm">
+                @foreach (var option in ViewBag.FilterOptions)
+                {
+                    <a style="text-decoration:none;" asp-controller="Order" asp-action="Index" asp-route-status="@option">
+                        <li class="list-group-item @(currentStatus == option.ToString() ? "active text-white bg-primary" : "")">
+                                @option
+                        </li>
+                    </a>
+                }
+                <a style="text-decoration:none;" asp-controller="Order" asp-action="Index" asp-route-status="All">
+                <li class="list-group-item @(string.IsNullOrEmpty(currentStatus) || currentStatus == "All" || !regex.Contains(regex) ? "active text-white bg-primary" : "")">
+                        All
+                </li>
+                </a>
+            </ul>
+        </div>
+    
+
+        <table id="ordersTable" class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Phone Number</th>
+                    <th>Email</th>
+                    <th>Status</th>
+                    <th>Total</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+
+        </table>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/js/orders.js"></script>
+}
